@@ -15,5 +15,6 @@ This update contains a lot of midi file's you can use to make covers from differ
 3. Skeech
 4. amiibofanboy1
 5. bluenebula
+6. Blantados
 
 Have fun making covers!
