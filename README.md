@@ -1,6 +1,7 @@
 # FNF MIDIS PACK UPDATE V2!
 
-![Add a heading](https://user-images.githubusercontent.com/93661920/159846968-efa4cdbe-0284-4fc7-bd6f-6e06b903ac67.png)
+![Add a heading (1)](https://user-images.githubusercontent.com/93661920/160127125-b62e8af1-fd8e-43e5-a2a5-cd380e621d70.png)
+
 
 This update contains a lot of midi file's you can use to make covers from different creators!
 
