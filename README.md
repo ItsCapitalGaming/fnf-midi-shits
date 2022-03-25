@@ -10,11 +10,11 @@ This update contains a lot of midi file's you can use to make covers from differ
 
 ## The midi's in this update is made by:
 
-1. NoahWantsDie
-2. Flipworksinstuff
-3. Skeech
-4. amiibofanboy1
-5. bluenebula
-6. Blantados
+* NoahWantsDie
+* Flipworksinstuff
+* Skeech
+* amiibofanboy1
+* bluenebula
+* Blantados
 
 Have fun making covers!
