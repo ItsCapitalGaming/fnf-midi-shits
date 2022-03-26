@@ -1,4 +1,4 @@
-# FNF MIDIS PACK UPDATE V2!
+# FNF ULTIMATE MIDIS PACK UPDATE V2!
 
 ![Add a heading (1)](https://user-images.githubusercontent.com/93661920/160127125-b62e8af1-fd8e-43e5-a2a5-cd380e621d70.png)
 
